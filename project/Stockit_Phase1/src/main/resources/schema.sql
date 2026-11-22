@@ -1,0 +1,1 @@
+-- Hibernate manages the schema. data.sql seeds realistic demo records.
